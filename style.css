@@ -1,0 +1,182 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: black;
+
+}
+
+.editor {
+    background-color: whitesmoke;
+    color: black;
+    text-align:center;
+    margin-left: 15em;
+    margin-right: 15em;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 2em;
+}
+
+button {
+    text-align: center;
+
+    
+}
+.add {
+    background-color: green;
+}
+.clean {
+    background-color: red;
+}
+.show-notas {
+    text-align: center;
+    
+    position: relative;
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+    color: black;
+    /* margin: 10px; */
+    margin-left: 17em;
+    margin-right: 17em;
+    padding: 1px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+
+    margin-top: 2em;
+    
+}
+
+
+/* .nota {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+} */
+
+
+/* .no-nota {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-top: 17em;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .contenedor-notas {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#formulario-nota {
+    margin-bottom: 20px;
+} */
+
+/* #nueva-nota {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid yellow;
+    resize: vertical;
+} */
+
+
+
+
+/* .nota {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+} */
+
+
+
+
+/* .nota-titulo {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nota-contenido {
+    height: 100px;
+    overflow: auto;
+}
+
+.nota-cerrar {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    font-size: 18px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+

@@ -4,6 +4,13 @@ body {
     background-color: black;
 
 }
+body img {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 5em;
+    margin-right: 4em;
+}
+
 
 .editor {
     background-color: whitesmoke;
@@ -15,41 +22,65 @@ body {
     padding-bottom: 1px;
 }
 
+
 .container {
     text-align: center;
     margin-top: 2em;
 }
 
-button {
+img {
+    margin-top: 5em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+
+
+
+/* button {
     text-align: center;
+    
 
     
-}
+} */
+
+
 .add {
     background-color: green;
+    margin-left: 8em;
+  
+   
 }
 .clean {
     background-color: red;
+    margin-left: 3em;
+    
+   
 }
 .show-notas {
-    text-align: center;
+    text-align: left;
     
     position: relative;
-    width: 200px;
-    height: 400px;
+    width: 1400px;
+    height: 500px;
     background-color: yellow;
     color: black;
     /* margin: 10px; */
-    margin-left: 17em;
-    margin-right: 17em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
     padding: 1px;
     border: 1px solid #ccc;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 
 
-    margin-top: 2em;
+    
     
 }
+
+
 
 
 /* .nota {
